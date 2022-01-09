@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "5067636018:AAGMY0ZEhE0IG3N-kFMkFyQtfTCThCdeqdI";
+$config['botToken'] = "5081315460:AAGmIFu30M17q8obJv46yhI7DIy1qL4KEjA";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = "5067636018:AAGMY0ZEhE0IG3N-kFMkFyQtfTCThCdeqdI";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "1997587431";
+$config['adminID'] = "2063356172";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "1997587431";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "-1001589171566";
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "Checker";
-$config['db']['password'] =  "Checker123@";
-$config['db']['database'] =  "Checker";
+$config['db']['hostname'] =  "mysql-65571-0.cloudclusters.net:19076";
+$config['db']['username'] =  "admin";
+$config['db']['password'] =  "RKNHoV7m";
+$config['db']['database'] =  "apitest";
 
 /*
 |--------------------------------------------------------------------------
@@ -66,7 +66,7 @@ $config['db']['database'] =  "Checker";
 | Value is in Seconds. "5" = 20seconds
 |
 */
-$config['anti_spam_timer'] =  "5";
+$config['anti_spam_timer'] =  "0";
 
 /*
 |--------------------------------------------------------------------------
